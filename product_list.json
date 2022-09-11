@@ -1,16 +1,5 @@
 [
     {
-        "id": 1,
-        "name": "Jordan Off White",
-        "brand": "Off White",
-        "pictures": ["Jordan_OffWhite_1", "JOW2", "JOW3"],
-        "description": "Teaming up with the world’s most magical department store, Palace brings you another covetable and unexpected collection. Only at Harrods, this exclusive skate-inflected bonanza features gilded garb, accessories, food and much more.",
-        "us_size": 9.5,
-        "ue_size": 43,
-        "price": 600,
-        "more": ""
-    },
-    {
         "id": 2,
         "name": "Jordan Off White",
         "brand": "Off White",
