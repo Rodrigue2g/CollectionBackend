@@ -7,3 +7,6 @@ Class Hello:
     
 def hello_world():
   print("Hello World")
+
+  
+var1 = 0
