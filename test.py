@@ -3,3 +3,7 @@ Class Hello:
     pass
   def hello():
     print("hello test")
+
+    
+def hello_world():
+  print("Hello World")
