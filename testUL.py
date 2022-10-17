@@ -1,8 +1,10 @@
 class Hello:
   def __init__(self):
     pass
-  def hello():
+  name = "mich"
+  def hello(self) -> str:
     print("hello test")
+    return self.name
 
     
 def hello_world():
