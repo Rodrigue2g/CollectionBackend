@@ -1,4 +1,4 @@
-Class Hello:
+class Hello:
   def __init__(self):
     pass
   def hello():
@@ -9,4 +9,4 @@ def hello_world():
   print("Hello World")
 
   
-var1 = 0
+#var1 = 0
