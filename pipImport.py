@@ -6,3 +6,5 @@ with httpimport.remote_repo(["testUL"], url):
     from testUL import *
 with httpimport.remote_repo(["pipUtility"], url):
     from pipUtility import *
+with httpimport.remote_repo(["copyCatch"], url):
+    from copyCatch import *
