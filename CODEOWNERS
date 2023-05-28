@@ -1,1 +1,5 @@
-* @Dequiavious6
+# These owners will be the default owners for everything in
+# the repo. Unless a later match takes precedence,
+# @Dequavious6 will be requested for
+# review when someone opens a pull request.
+*       @Dequavious6
