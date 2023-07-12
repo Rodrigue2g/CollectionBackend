@@ -10,7 +10,7 @@
         "qty": 1,
         "isFavorite": false,
         "isAvailable": true,
-        "metaData": {}
+        "metadata": {}
     },
     {
         "id": "550e8400-e29b-41d4-a716-446655440001",
@@ -23,7 +23,7 @@
         "qty": 1,
         "isFavorite": false,
         "isAvailable": true,
-        "metaData": {}
+        "metadata": {}
     },
     {
         "id": "550e8400-e29b-41d4-a716-446655440002",
@@ -36,7 +36,7 @@
         "qty": 1,
         "isFavorite": false,
         "isAvailable": true,
-        "metaData": {}
+        "metadata": {}
     },
     {
         "id": "550e8400-e29b-41d4-a716-446655440003",
@@ -49,7 +49,7 @@
         "qty": 1,
         "isFavorite": false,
         "isAvailable": true,
-        "metaData": {}
+        "metadata": {}
     },
     {
         "id": "550e8400-e29b-41d4-a716-446655440004",
@@ -62,7 +62,7 @@
         "qty": 1,
         "isFavorite": false,
         "isAvailable": true,
-        "metaData": {}
+        "metadata": {}
     },
     {
         "id": "550e8400-e29b-41d4-a716-446655440005",
@@ -75,7 +75,7 @@
         "qty": 1,
         "isFavorite": false,
         "isAvailable": true,
-        "metaData": {}
+        "metadata": {}
     },
     {
         "id": "550e8400-e29b-41d4-a716-4466554400006",
@@ -88,7 +88,7 @@
         "qty": 1,
         "isFavorite": false,
         "isAvailable": true,
-        "metaData": {}
+        "metadata": {}
     },
     {
         "id": "550e8400-e29b-41d4-a716-4466554400007",
@@ -101,7 +101,7 @@
         "qty": 1,
         "isFavorite": false,
         "isAvailable": true,
-        "metaData": {}
+        "metadata": {}
     },
     {
         "id": "550e8400-e29b-41d4-a716-4466554400008",
@@ -114,7 +114,7 @@
         "qty": 1,
         "isFavorite": false,
         "isAvailable": true,
-        "metaData": {}
+        "metadata": {}
     },
     {
         "id": "550e8400-e29b-41d4-a716-446655440009",
@@ -127,7 +127,7 @@
         "qty": 1,
         "isFavorite": false,
         "isAvailable": true,
-        "metaData": {}
+        "metadata": {}
     },
     {
         "id": "550e8400-e29b-41d4-a716-446655440010",
@@ -140,7 +140,7 @@
         "qty": 1,
         "isFavorite": false,
         "isAvailable": true,
-        "metaData": {}
+        "metadata": {}
     },
     {
         "id": "550e8400-e29b-41d4-a716-446655440011",
@@ -153,7 +153,7 @@
         "qty": 1,
         "isFavorite": false,
         "isAvailable": true,
-        "metaData": {}
+        "metadata": {}
     },
     {
         "id": "550e8400-e29b-41d4-a716-446655440012",
@@ -166,7 +166,7 @@
         "qty": 1,
         "isFavorite": false,
         "isAvailable": true,
-        "metaData": {}
+        "metadata": {}
     },
     {
         "id": "550e8400-e29b-41d4-a716-446655440013",
@@ -179,7 +179,7 @@
         "qty": 1,
         "isFavorite": false,
         "isAvailable": true,
-        "metaData": {}
+        "metadata": {}
     },
     {
         "id": "550e8400-e29b-41d4-a716-446655440014",
@@ -192,7 +192,7 @@
         "qty": 1,
         "isFavorite": false,
         "isAvailable": true,
-        "metaData": {}
+        "metadata": {}
     },
 ]
  
