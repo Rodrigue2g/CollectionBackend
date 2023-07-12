@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id": "1",
         "name": "Jordan Off White",
         "brand": "Off White",
         "pictures": ["JOW1", "JOW2", "JOW3"],
@@ -13,7 +13,7 @@
         "metaData": {}
     },
     {
-        "id": 2,
+        "id": "2",
         "name": "Jordan Off White",
         "brand": "Off White",
         "pictures": ["JOW1", "JOW2", "JOW3"],
@@ -26,7 +26,7 @@
         "metaData": {}
     },
     {
-        "id": 3,
+        "id": "3",
         "name": "Jordan Off White",
         "brand": "Off White",
         "pictures": ["JOW1", "JOW2", "JOW3"],
@@ -39,7 +39,7 @@
         "metaData": {}
     },
     {
-        "id": 4,
+        "id": "4",
         "name": "Jordan Off White",
         "brand": "Off White",
         "pictures": ["JOW1", "JOW2", "JOW3"],
@@ -52,7 +52,7 @@
         "metaData": {}
     },
     {
-        "id": 5,
+        "id": "5",
         "name": "Chanel x Pharell",
         "brand": "Adidas",
         "pictures": ["Chanel1", "Chanel2", "Chanel3", "Chanel4", "Chanel5"],
@@ -65,7 +65,7 @@
         "metaData": {}
     },
     {
-        "id": 6,
+        "id": "6",
         "name": "Chanel x Pharell",
         "brand": "Adidas",
         "pictures": ["Chanel1", "Chanel2", "Chanel3", "Chanel4", "Chanel5"],
@@ -78,7 +78,7 @@
         "metaData": {}
     },
     {
-        "id": 7,
+        "id": "7",
         "name": "Chanel x Pharell",
         "brand": "Adidas",
         "pictures": ["Chanel1", "Chanel2", "Chanel3", "Chanel4", "Chanel5"],
@@ -91,7 +91,7 @@
         "metaData": {}
     },
     {
-        "id": 8,
+        "id": "8",
         "name": "New Balance 327 x Casa Blanca",
         "brand": "New Balance",
         "pictures": ["NBV1", "NBV2", "NBV3"],
@@ -104,7 +104,7 @@
         "metaData": {}
     },
     {
-        "id": 9,
+        "id": "9",
         "name": "New Balance 327 x Casa Blanca",
         "brand": "New Balance",
         "pictures": ["NBV1", "NBV2", "NBV3"],
@@ -117,7 +117,7 @@
         "metaData": {}
     },
     {
-        "id": 10,
+        "id": "10",
         "name": "New Balance 327 x Casa Blanca",
         "brand": "New Balance",
         "pictures": ["NBV1", "NBV2", "NBV3"],
@@ -130,7 +130,7 @@
         "metaData": {}
     },
     {
-        "id": 11,
+        "id": "11",
         "name": "New Balance 327 x Casa Blanca (White)",
         "brand": "New Balance",
         "pictures": ["NB1", "NB2", "NB3", "NB4"],
@@ -143,7 +143,7 @@
         "metaData": {}
     },
     {
-        "id": 12,
+        "id": "12",
         "name": "New Balance 327 x Casa Blanca (White)",
         "brand": "New Balance",
         "pictures": ["NB1", "NB2", "NB3", "NB4"],
@@ -156,7 +156,7 @@
         "metaData": {}
     },
     {
-        "id": 13,
+        "id": "13",
         "name": "Air Force 1 Green",
         "brand": "Nike",
         "pictures": ["AF1", "AF2", "AF3"],
@@ -169,7 +169,7 @@
         "metaData": {}
     },
     {
-        "id": 14,
+        "id": "14",
         "name": "Air Force 1 Green",
         "brand": "Nike",
         "pictures": ["AF1", "AF2", "AF3"],
@@ -182,7 +182,7 @@
         "metaData": {}
     },
     {
-        "id": 15,
+        "id": "15",
         "name": "Air Force 1 Green",
         "brand": "Nike",
         "pictures": ["AF1", "AF2", "AF3"],
