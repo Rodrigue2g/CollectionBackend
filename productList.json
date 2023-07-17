@@ -20,7 +20,7 @@
         "description": "Teaming up with the world’s most magical department store, Palace brings you another covetable and unexpected collection. Only at Harrods, this exclusive skate-inflected bonanza features gilded garb, accessories, food and much more.",
         "eu_size": 44,
         "price": 550,
-        "qty": 1,
+        "qty": 2,
         "isFavorite": false,
         "isAvailable": true,
         "metadata": {}
@@ -39,33 +39,7 @@
         "metadata": {}
     },
     {
-        "id": "550e8400-e29b-41d4-a716-446655440003",
-        "name": "Jordan Off White",
-        "brand": "Off White",
-        "pictures": ["JOW1", "JOW2", "JOW3"],
-        "description": "Teaming up with the world’s most magical department store, Palace brings you another covetable and unexpected collection. Only at Harrods, this exclusive skate-inflected bonanza features gilded garb, accessories, food and much more.",
-        "eu_size": 44,
-        "price": 550,
-        "qty": 1,
-        "isFavorite": false,
-        "isAvailable": true,
-        "metadata": {}
-    },
-    {
         "id": "550e8400-e29b-41d4-a716-446655440004",
-        "name": "Chanel x Pharell",
-        "brand": "Adidas",
-        "pictures": ["Chanel1", "Chanel2", "Chanel3", "Chanel4", "Chanel5"],
-        "description": "Teaming up with the world’s most magical department store, Palace brings you another covetable and unexpected collection. Only at Harrods, this exclusive skate-inflected bonanza features gilded garb, accessories, food and much more.",
-        "eu_size": 43,
-        "price": 1200,
-        "qty": 1,
-        "isFavorite": false,
-        "isAvailable": true,
-        "metadata": {}
-    },
-    {
-        "id": "550e8400-e29b-41d4-a716-446655440005",
         "name": "Chanel x Pharell",
         "brand": "Adidas",
         "pictures": ["Chanel1", "Chanel2", "Chanel3", "Chanel4", "Chanel5"],
@@ -98,20 +72,7 @@
         "description": "description text",
         "eu_size": 43,
         "price": 360,
-        "qty": 1,
-        "isFavorite": false,
-        "isAvailable": true,
-        "metadata": {}
-    },
-    {
-        "id": "550e8400-e29b-41d4-a716-4466554400008",
-        "name": "New Balance 327 x Casa Blanca",
-        "brand": "New Balance",
-        "pictures": ["NBV1", "NBV2", "NBV3"],
-        "description": "description text",
-        "eu_size": 43,
-        "price": 360,
-        "qty": 1,
+        "qty": 2,
         "isFavorite": false,
         "isAvailable": true,
         "metadata": {}
@@ -124,20 +85,7 @@
         "description": "description text",
         "eu_size": 44,
         "price": 400,
-        "qty": 1,
-        "isFavorite": false,
-        "isAvailable": true,
-        "metadata": {}
-    },
-    {
-        "id": "550e8400-e29b-41d4-a716-446655440010",
-        "name": "New Balance 327 x Casa Blanca (White)",
-        "brand": "New Balance",
-        "pictures": ["NB1", "NB2", "NB3", "NB4"],
-        "description": "description text",
-        "eu_size": 44,
-        "price": 400,
-        "qty": 1,
+        "qty": 3,
         "isFavorite": false,
         "isAvailable": true,
         "metadata": {}
@@ -150,7 +98,7 @@
         "description": "description text",
         "eu_size": 43,
         "price": 390,
-        "qty": 1,
+        "qty": 0,
         "isFavorite": false,
         "isAvailable": true,
         "metadata": {}
