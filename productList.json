@@ -52,6 +52,19 @@
         "metadata": {}
     },
     {
+        "id": "550e8400-e29b-41d4-a716-446655440004",
+        "name": "Chanel x Pharell",
+        "brand": "Adidas",
+        "pictures": ["Chanel1", "Chanel2", "Chanel3", "Chanel4", "Chanel5"],
+        "description": "Teaming up with the world’s most magical department store, Palace brings you another covetable and unexpected collection. Only at Harrods, this exclusive skate-inflected bonanza features gilded garb, accessories, food and much more.",
+        "eu_size": 45,
+        "price": 1200,
+        "qty": 0,
+        "isFavorite": false,
+        "isAvailable": true,
+        "metadata": {}
+    },
+    {
         "id": "550e8400-e29b-41d4-a716-4466554400006",
         "name": "Chanel x Pharell",
         "brand": "Adidas",
